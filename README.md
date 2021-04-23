@@ -23,12 +23,26 @@ Below are the results for all six machine learning models, including accuracy sc
 - Recall Score (High Risk): 0.69
 - Recall Score (Low Risk): 0.61
 
+![oversamp_accuracy](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/oversamp_accuracy.PNG)
+
+![oversamp_class](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/oversamp_class.PNG)
+
+![oversamp_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/oversamp_cm.PNG)
+
+
 ##### SMOTE Oversampling
 - Accuracy Score: 0.66
 - Precision (High Risk): 0.01
 - Precision (Low Risk): 1.00
 - Recall Score (High Risk): 0.63
 - Recall Score (Low Risk): 0.69
+
+![smote_accuracy](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/smote_accuracy.PNG)
+
+![smote_class](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/smote_class.PNG)
+
+![smote_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/smote_cm.PNG)
+
 
 ##### Cluster Centroid Oversampling
 - Accuracy Score: 0.54
@@ -37,12 +51,26 @@ Below are the results for all six machine learning models, including accuracy sc
 - Recall Score (High Risk): 0.69
 - Recall Score (Low Risk): 0.40
 
+![cc_accuracy](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/cc_accuracy.PNG)
+
+![cc_class](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/cc_class.PNG)
+
+![cc_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/cc_cm.PNG)
+
+
 ##### SMOTEENN (Over and Under) Sampling
 - Accuracy Score: 0.68
 - Precision (High Risk): 0.01
 - Precision (Low Risk): 1.00
 - Recall Score (High Risk): 0.78
 - Recall Score (Low Risk): 0.57
+
+![smoteenn_accuracy](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/smoteenn_accuracy.PNG)
+
+![smoteenn_class](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/smoteenn_class.PNG)
+
+![smoteenn_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/smoteenn_cm.PNG)
+
 
 ##### Balanced Random Forest Classifying
 - Accuracy Score: 0.79
@@ -51,12 +79,26 @@ Below are the results for all six machine learning models, including accuracy sc
 - Recall Score (High Risk): 0.70
 - Recall Score (Low Risk): 0.87
 
+![brf_accuracy](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/brf_accuracy.PNG)
+
+![brf_class](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/brf_class.PNG)
+
+![brf_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/brf_cm.PNG)
+
+
 ##### Easy Ensemble Classifying
 - Accuracy Score: 0.93
 - Precision (High Risk): 0.09
 - Precision (Low Risk): 1.00
 - Recall Score (High Risk): 0.92
 - Recall Score (Low Risk): 0.94
+
+![eec_accuracy](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/eec_accuracy.PNG)
+
+![eec_class](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/eec_class.PNG)
+
+![eec_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/eec_cm.PNG)
+
 
 ---
 
