@@ -16,7 +16,7 @@ The purpose of this analysis was to use credit data from a lending service compa
 ## Results
 Below are the results for all six machine learning models, including accuracy scores, precision, and recall scores.
 
-##### Random Oversampling
+#### Random Oversampling
 - Accuracy Score: 0.65
 - Precision (High Risk): 0.01
 - Precision (Low Risk): 1.00
@@ -30,7 +30,7 @@ Below are the results for all six machine learning models, including accuracy sc
 ![oversamp_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/oversamp_cm.PNG)
 
 
-##### SMOTE Oversampling
+#### SMOTE Oversampling
 - Accuracy Score: 0.66
 - Precision (High Risk): 0.01
 - Precision (Low Risk): 1.00
@@ -44,7 +44,7 @@ Below are the results for all six machine learning models, including accuracy sc
 ![smote_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/smote_cm.PNG)
 
 
-##### Cluster Centroid Oversampling
+#### Cluster Centroid Oversampling
 - Accuracy Score: 0.54
 - Precision (High Risk): 0.01
 - Precision (Low Risk): 1.00
@@ -58,7 +58,7 @@ Below are the results for all six machine learning models, including accuracy sc
 ![cc_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/cc_cm.PNG)
 
 
-##### SMOTEENN (Over and Under) Sampling
+#### SMOTEENN (Over and Under) Sampling
 - Accuracy Score: 0.68
 - Precision (High Risk): 0.01
 - Precision (Low Risk): 1.00
@@ -72,7 +72,7 @@ Below are the results for all six machine learning models, including accuracy sc
 ![smoteenn_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/smoteenn_cm.PNG)
 
 
-##### Balanced Random Forest Classifying
+#### Balanced Random Forest Classifying
 - Accuracy Score: 0.79
 - Precision (High Risk): 0.03
 - Precision (Low Risk): 1.00
@@ -86,7 +86,7 @@ Below are the results for all six machine learning models, including accuracy sc
 ![brf_cm](https://github.com/AndrewTymkiv/Credit_Risk_Analysis/blob/main/screenshots/brf_cm.PNG)
 
 
-##### Easy Ensemble Classifying
+#### Easy Ensemble Classifying
 - Accuracy Score: 0.93
 - Precision (High Risk): 0.09
 - Precision (Low Risk): 1.00
