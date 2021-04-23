@@ -57,3 +57,12 @@ Below are the results for all six machine learning models, including accuracy sc
 - Precision (Low Risk): 1.00
 - Recall Score (High Risk): 0.92
 - Recall Score (Low Risk): 0.94
+
+---
+
+## Summary
+After observing the results, it is safe to conclude that the ensemble classifying machine learning methods yielded better results than the oversampling methods, which were not as accurate. One important metric we can observe is the recall scores for high risk loans. The higher the score, the smaller the the number of high risk loans there are that are approved. 
+The model with the highest recall score for high rates was the Easy Ensemble Classifying method which yielded a score of 0.92 (92%). The other methods yielded scores between 0.63 and 0.78.
+Furthermore, this method also the highest accuracy score of 0.93 (93%). The other methods yielded results between 0.54 and 0.79.
+
+Based on these results, the lending service companies should adopt the Easy Ensemble Classifying machine learning method to detect high risk credit loans as it is the most accurate model out the six observed. 
